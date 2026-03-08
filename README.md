@@ -4,7 +4,7 @@
 
 ### 🎓 Education
 
-**Computer Science MSc Student (ICT Solution Architect)** @UniPisa
+**Computer Science MSc Student (ICT Solution Architect)** @UniPisa | **Computer Science BSc Graduate** @UniPisa
 
 ### 🛠️ Tech Stack
 
